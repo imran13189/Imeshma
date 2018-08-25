@@ -9,8 +9,9 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Imeshma.BAL</RootNamespace>
     <AssemblyName>Imeshma.BAL</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -49,8 +50,8 @@
       <Project>{2f404859-ea2f-485a-946b-96b896ec5221}</Project>
       <Name>Imeshma.DAL</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\Imran\Documents\Visual Studio 2015\Projects\Imeshma.WEB\Imehsma.Entity\Imeshma.Entity.csproj">
-      <Project>{544a130d-f665-4d61-a0b1-aef0b6a080a7}</Project>
+    <ProjectReference Include="..\Imeshma.Entity\Imeshma.Entity.csproj">
+      <Project>{e5753ba1-2890-46f9-9bde-5997942a6b03}</Project>
       <Name>Imeshma.Entity</Name>
     </ProjectReference>
   </ItemGroup>

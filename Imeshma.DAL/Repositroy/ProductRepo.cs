@@ -8,8 +8,7 @@ using Imeshma.DAL.Interfaces;
 using System.Data.Entity.Infrastructure;
 using System.Data.Common;
 using System.Data.SqlClient;
-using Imeshma.Entity;
-using System.Data;
+ using System.Data;
 
 namespace Imeshma.DAL.Repositroy
 {
