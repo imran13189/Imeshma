@@ -1,0 +1,11 @@
+E:\Imeshma\Imeshma.BAL\bin\Debug\Imeshma.BAL.dll
+E:\Imeshma\Imeshma.BAL\bin\Debug\Imeshma.BAL.pdb
+E:\Imeshma\Imeshma.BAL\bin\Debug\Imehsma.Entity.dll
+E:\Imeshma\Imeshma.BAL\bin\Debug\Imeshma.DAL.dll
+E:\Imeshma\Imeshma.BAL\bin\Debug\EntityFramework.dll
+E:\Imeshma\Imeshma.BAL\bin\Debug\Imeshma.DAL.pdb
+E:\Imeshma\Imeshma.BAL\bin\Debug\Imehsma.Entity.pdb
+E:\Imeshma\Imeshma.BAL\bin\Debug\EntityFramework.xml
+E:\Imeshma\Imeshma.BAL\obj\Debug\Imeshma.BAL.csprojResolveAssemblyReference.cache
+E:\Imeshma\Imeshma.BAL\obj\Debug\Imeshma.BAL.dll
+E:\Imeshma\Imeshma.BAL\obj\Debug\Imeshma.BAL.pdb
